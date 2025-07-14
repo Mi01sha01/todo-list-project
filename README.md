@@ -13,3 +13,10 @@ It helps you manage your tasks with ease.
 - HTML5
 - CSS3
 - JavaScript
+
+https://mi01sha01.github.io/todo-list-project/
+
+# Live Demo
+
+[Try the Todo List here](https://mi01sha01.github.io/todo-list-project/)
+
