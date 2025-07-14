@@ -6,7 +6,7 @@ It helps you manage your tasks with ease.
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
-- Responsive and clean UI
+- Responsive
 - Local storage support
 
 # Technologies Used
@@ -14,7 +14,6 @@ It helps you manage your tasks with ease.
 - CSS3
 - JavaScript
 
-https://mi01sha01.github.io/todo-list-project/
 
 # Live Demo
 
