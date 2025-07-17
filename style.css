@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: lavender;
+    background: #2F3E46;
     padding: 10px;
 }
 .todo-app{
