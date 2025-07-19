@@ -63,7 +63,7 @@ ul li{
     user-select: none;
     cursor: pointer;
     position: relative;
-     font-style: italic;
+     
 }
 ul li::before{
     content: '';
@@ -103,8 +103,8 @@ ul li span:hover{
     background: #edeef0;
 }
 #input-box::placeholder {
-  font-size: 18px;       
+  font-size: 20px;       
   color: #666;           
   font-weight: 500;      
-  font-style: italic;   
+   
 }
